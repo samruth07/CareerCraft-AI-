@@ -1,0 +1,37 @@
+Job Title: ML / AI Engineer
+Company: AI Startup (Generic Profile)
+Location: Remote / Hybrid
+
+About the Role:
+We are looking for an ML/AI Engineer to build and deploy machine learning systems at scale. You will work on cutting-edge AI projects including LLM applications, RAG systems, and multi-agent architectures.
+
+Responsibilities:
+- Design, build, and deploy production ML/AI systems
+- Develop LLM-powered applications using frameworks like LangChain and LangGraph
+- Build RAG (Retrieval Augmented Generation) pipelines with vector databases
+- Implement multi-agent systems for complex task automation
+- Fine-tune and evaluate language models for specific use cases
+- Build and maintain ML pipelines and model serving infrastructure
+- Collaborate with product teams to translate requirements into AI solutions
+- Monitor model performance and implement feedback loops
+
+Requirements:
+- Bachelor's or Master's degree in CS, AI, or related field
+- 2+ years of experience in ML engineering or AI development
+- Strong proficiency in Python
+- Experience with LLM frameworks (LangChain, LangGraph, or similar)
+- Knowledge of RAG pipelines and vector databases (ChromaDB, Pinecone, Weaviate)
+- Experience with embedding models and semantic search
+- Familiarity with prompt engineering and LLM evaluation
+- Experience with Docker and cloud deployment (AWS/GCP)
+- Strong understanding of ML fundamentals and deep learning
+
+Nice to Have:
+- Experience with multi-agent systems and agentic AI
+- Knowledge of fine-tuning techniques (LoRA, QLoRA)
+- Experience with MLOps (MLflow, Weights & Biases)
+- Contributions to open-source AI projects
+- Experience with Hugging Face ecosystem
+
+Tech Stack:
+Python, LangChain, LangGraph, OpenAI API, ChromaDB, Docker, FastAPI, AWS, Hugging Face

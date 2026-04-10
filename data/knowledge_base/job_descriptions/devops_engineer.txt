@@ -1,0 +1,39 @@
+Job Title: DevOps Engineer
+Company: Infrastructure Company (Generic Profile)
+Location: Remote / Hybrid
+
+About the Role:
+We are seeking a DevOps Engineer to build and maintain our cloud infrastructure, CI/CD pipelines, and deployment automation. You will ensure our systems are scalable, reliable, and secure.
+
+Responsibilities:
+- Design and manage cloud infrastructure on AWS/GCP/Azure
+- Build and maintain CI/CD pipelines for automated testing and deployment
+- Containerize applications using Docker and orchestrate with Kubernetes
+- Implement Infrastructure as Code using Terraform or CloudFormation
+- Set up monitoring, alerting, and logging systems
+- Ensure system security, compliance, and disaster recovery
+- Optimize infrastructure costs and resource utilization
+- Collaborate with development teams to improve deployment workflows
+- Manage database operations and backup strategies
+
+Requirements:
+- Bachelor's degree in Computer Science, IT, or equivalent experience
+- 2+ years of experience in DevOps or Infrastructure Engineering
+- Strong proficiency with Linux systems administration
+- Experience with Docker and container orchestration (Kubernetes)
+- Proficiency with at least one cloud platform (AWS, GCP, or Azure)
+- Experience with Infrastructure as Code (Terraform preferred)
+- Knowledge of CI/CD tools (GitHub Actions, Jenkins, GitLab CI)
+- Scripting skills in Bash, Python, or Go
+- Understanding of networking, DNS, and load balancing
+- Experience with monitoring tools (Prometheus, Grafana, Datadog)
+
+Nice to Have:
+- Kubernetes certifications (CKA/CKAD)
+- AWS/GCP/Azure certifications
+- Experience with service mesh (Istio, Linkerd)
+- Knowledge of GitOps practices (ArgoCD, Flux)
+- Experience with security scanning and compliance tools
+
+Tech Stack:
+AWS, Terraform, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, Linux, Ansible, Nginx

@@ -1,0 +1,37 @@
+Job Title: Data Scientist
+Company: Analytics Company (Generic Profile)
+Location: Remote / Hybrid
+
+About the Role:
+We are seeking a Data Scientist to join our analytics team. You will leverage data to drive business decisions, build predictive models, and uncover insights from large datasets.
+
+Responsibilities:
+- Analyze large datasets to identify trends, patterns, and insights
+- Build and deploy machine learning models for prediction and classification
+- Design and execute A/B tests to measure product impact
+- Create data visualizations and dashboards for stakeholders
+- Collaborate with engineering teams to productionize models
+- Develop ETL pipelines for data processing and feature engineering
+- Present findings and recommendations to non-technical stakeholders
+- Stay current with latest ML/AI research and best practices
+
+Requirements:
+- Master's or Bachelor's degree in Data Science, Statistics, Mathematics, or related field
+- 2+ years of experience in data science or analytics
+- Strong proficiency in Python (Pandas, NumPy, Scikit-learn)
+- Experience with SQL and database querying
+- Solid understanding of statistical methods and experimental design
+- Experience with data visualization tools (Matplotlib, Seaborn, Tableau)
+- Knowledge of machine learning algorithms (regression, classification, clustering)
+- Familiarity with deep learning frameworks (TensorFlow or PyTorch)
+- Excellent communication skills for presenting technical findings
+
+Nice to Have:
+- Experience with NLP or computer vision
+- Knowledge of big data tools (Spark, Hadoop)
+- Experience with cloud ML platforms (AWS SageMaker, GCP Vertex AI)
+- Published research or Kaggle competition experience
+- Experience with MLOps and model monitoring
+
+Tech Stack:
+Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Jupyter, Tableau, AWS, Airflow

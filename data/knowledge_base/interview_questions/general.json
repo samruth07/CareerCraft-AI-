@@ -1,0 +1,98 @@
+{
+    "behavioral_questions": [
+        {
+            "question": "Tell me about a time you had to deal with a difficult team member. How did you handle it?",
+            "category": "Teamwork & Conflict Resolution",
+            "what_they_assess": "Conflict resolution, emotional intelligence, communication",
+            "framework": "Use STAR method: Situation, Task, Action, Result",
+            "tips": "Focus on the resolution, not the drama. Show empathy and professionalism."
+        },
+        {
+            "question": "Describe a project that failed. What did you learn from it?",
+            "category": "Resilience & Learning",
+            "what_they_assess": "Growth mindset, accountability, self-awareness",
+            "framework": "Acknowledge the failure, explain what went wrong, and emphasize lessons learned",
+            "tips": "Be honest but show how you grew. Never blame others entirely."
+        },
+        {
+            "question": "Tell me about a time you had to learn a new technology quickly. How did you approach it?",
+            "category": "Adaptability & Learning",
+            "what_they_assess": "Learning ability, resourcefulness, time management",
+            "framework": "Describe the context, your learning approach, and the outcome",
+            "tips": "Show your systematic approach to learning. Mention specific resources you used."
+        },
+        {
+            "question": "Describe a time you went above and beyond what was expected of you.",
+            "category": "Initiative & Work Ethic",
+            "what_they_assess": "Motivation, ownership, impact",
+            "framework": "Explain what was expected, what you did extra, and the impact it had",
+            "tips": "Choose an example with measurable impact. Show you're proactive."
+        },
+        {
+            "question": "Tell me about a time you had to make a decision with incomplete information.",
+            "category": "Decision Making",
+            "what_they_assess": "Judgment, risk assessment, decisiveness",
+            "framework": "Describe the situation, the information gap, your decision process, and the outcome",
+            "tips": "Show your analytical thinking and how you mitigated risks."
+        },
+        {
+            "question": "How do you handle tight deadlines and multiple priorities?",
+            "category": "Time Management",
+            "what_they_assess": "Organization, prioritization, stress management",
+            "framework": "Give a specific example with concrete prioritization strategies",
+            "tips": "Mention specific tools or methods you use (Kanban, Eisenhower matrix, etc.)"
+        },
+        {
+            "question": "Describe a time you had to explain a complex technical concept to a non-technical person.",
+            "category": "Communication",
+            "what_they_assess": "Communication skills, empathy, teaching ability",
+            "framework": "Explain the concept, your approach to simplification, and the person's understanding",
+            "tips": "Use analogies and show patience. This is crucial for senior roles."
+        },
+        {
+            "question": "Tell me about your biggest professional achievement.",
+            "category": "Achievement & Impact",
+            "what_they_assess": "Impact, ambition, self-awareness",
+            "framework": "Focus on the challenge, your specific contribution, and quantifiable results",
+            "tips": "Use numbers: 'improved by X%', 'reduced by Y hours', 'served Z users'."
+        }
+    ],
+    "general_technical_questions": [
+        {
+            "question": "Explain the difference between REST and GraphQL. When would you choose one over the other?",
+            "difficulty": "medium",
+            "expected_points": ["REST is resource-based, GraphQL is query-based", "REST can lead to over/under-fetching", "GraphQL has a single endpoint", "REST is simpler for CRUD, GraphQL for complex data needs"],
+            "follow_ups": ["How would you handle versioning in REST?", "What are N+1 problems in GraphQL?"]
+        },
+        {
+            "question": "What is the difference between SQL and NoSQL databases? When would you use each?",
+            "difficulty": "easy",
+            "expected_points": ["SQL is relational with fixed schema", "NoSQL is flexible (document, key-value, graph)", "SQL for structured data with relationships", "NoSQL for unstructured/semi-structured data at scale"],
+            "follow_ups": ["Give an example of when you'd use MongoDB over PostgreSQL", "What is ACID vs BASE?"]
+        },
+        {
+            "question": "Explain CI/CD. Why is it important?",
+            "difficulty": "easy",
+            "expected_points": ["CI: Continuous Integration - automated testing on merge", "CD: Continuous Delivery/Deployment - automated release", "Reduces bugs through early detection", "Enables faster, reliable releases"],
+            "follow_ups": ["What CI/CD tools have you used?", "How do you handle failed deployments?"]
+        },
+        {
+            "question": "What are microservices? What are the pros and cons compared to monolithic architecture?",
+            "difficulty": "medium",
+            "expected_points": ["Microservices: independent, deployable services", "Pros: scalability, team independence, tech flexibility", "Cons: complexity, network latency, data consistency", "Monolith is simpler for small teams"],
+            "follow_ups": ["How do microservices communicate?", "What is service discovery?"]
+        },
+        {
+            "question": "Explain Docker and containerization. Why do we use it?",
+            "difficulty": "easy",
+            "expected_points": ["Containers package app + dependencies together", "Consistent across environments", "Lightweight compared to VMs", "Docker images are based on layers"],
+            "follow_ups": ["What is the difference between Docker and Kubernetes?", "Explain Docker Compose"]
+        },
+        {
+            "question": "What is system design? Walk me through designing a URL shortener.",
+            "difficulty": "hard",
+            "expected_points": ["Requirements gathering first", "API design (POST /shorten, GET /:code)", "Database choice and schema", "Hashing strategy", "Scalability (caching, load balancing)"],
+            "follow_ups": ["How would you handle 1 billion URLs?", "What about analytics and tracking?"]
+        }
+    ]
+}

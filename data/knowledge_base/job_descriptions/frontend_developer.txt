@@ -1,0 +1,38 @@
+Job Title: Frontend Developer
+Company: Product Company (Generic Profile)
+Location: Remote / Hybrid
+
+About the Role:
+We are looking for a Frontend Developer to build beautiful, responsive, and performant user interfaces. You will work closely with designers and backend engineers to deliver exceptional user experiences.
+
+Responsibilities:
+- Build responsive and accessible web applications using React
+- Implement pixel-perfect UI designs from Figma mockups
+- Optimize application performance and loading times
+- Write unit and integration tests for frontend components
+- Collaborate with UX designers to improve user experience
+- Maintain component libraries and design systems
+- Implement state management solutions for complex applications
+- Ensure cross-browser compatibility and mobile responsiveness
+
+Requirements:
+- Bachelor's degree in Computer Science or equivalent experience
+- 2+ years of frontend development experience
+- Strong proficiency in HTML, CSS, and JavaScript
+- Experience with React and modern React patterns (hooks, context)
+- Knowledge of TypeScript
+- Experience with CSS frameworks (Tailwind CSS, Styled Components)
+- Familiarity with state management (Redux, Zustand, or Context API)
+- Experience with REST APIs and async data fetching
+- Knowledge of web accessibility standards (WCAG)
+- Experience with Git and collaborative development
+
+Nice to Have:
+- Experience with Next.js or server-side rendering
+- Knowledge of testing frameworks (Jest, React Testing Library, Cypress)
+- Experience with GraphQL
+- Understanding of CI/CD pipelines
+- Experience with animation libraries (Framer Motion, GSAP)
+
+Tech Stack:
+React, TypeScript, Next.js, Tailwind CSS, Redux, Jest, Cypress, Figma, Git, Vercel

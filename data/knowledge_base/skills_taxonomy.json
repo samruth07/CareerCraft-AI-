@@ -1,0 +1,98 @@
+{
+    "categories": {
+        "programming_languages": {
+            "name": "Programming Languages",
+            "skills": ["Python", "JavaScript", "TypeScript", "Java", "C++", "C#", "Go", "Rust", "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "MATLAB", "SQL", "Bash", "PowerShell"]
+        },
+        "frontend": {
+            "name": "Frontend Development",
+            "skills": ["HTML", "CSS", "React", "Angular", "Vue.js", "Next.js", "Svelte", "Tailwind CSS", "Bootstrap", "SASS", "LESS", "jQuery", "Redux", "Webpack", "Vite", "Responsive Design", "Web Accessibility", "PWA"]
+        },
+        "backend": {
+            "name": "Backend Development",
+            "skills": ["Node.js", "Express.js", "Django", "Flask", "FastAPI", "Spring Boot", "Ruby on Rails", "ASP.NET", "GraphQL", "REST API", "gRPC", "Microservices", "WebSockets", "OAuth", "JWT"]
+        },
+        "databases": {
+            "name": "Databases",
+            "skills": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite", "Cassandra", "DynamoDB", "Firebase", "Elasticsearch", "Neo4j", "InfluxDB", "Supabase"]
+        },
+        "cloud_devops": {
+            "name": "Cloud & DevOps",
+            "skills": ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Terraform", "CI/CD", "GitHub Actions", "Jenkins", "Ansible", "Nginx", "Linux", "Prometheus", "Grafana", "Serverless"]
+        },
+        "data_science": {
+            "name": "Data Science & Analytics",
+            "skills": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "Jupyter Notebook", "Data Visualization", "Statistical Analysis", "A/B Testing", "Feature Engineering", "Data Cleaning", "ETL", "Apache Spark", "Tableau", "Power BI"]
+        },
+        "machine_learning": {
+            "name": "Machine Learning & AI",
+            "skills": ["TensorFlow", "PyTorch", "Keras", "Natural Language Processing", "Computer Vision", "Deep Learning", "Reinforcement Learning", "LLMs", "Transformers", "Hugging Face", "LangChain", "LangGraph", "RAG", "Fine-tuning", "MLOps", "Model Deployment", "Prompt Engineering", "OpenAI API", "Generative AI"]
+        },
+        "mobile": {
+            "name": "Mobile Development",
+            "skills": ["React Native", "Flutter", "SwiftUI", "Kotlin Android", "Expo", "Ionic", "Xamarin"]
+        },
+        "security": {
+            "name": "Cybersecurity",
+            "skills": ["Penetration Testing", "Network Security", "Cryptography", "OWASP", "Vulnerability Assessment", "SOC", "SIEM", "Firewall Management", "Ethical Hacking", "Security Auditing"]
+        },
+        "soft_skills": {
+            "name": "Soft Skills",
+            "skills": ["Communication", "Leadership", "Problem Solving", "Teamwork", "Critical Thinking", "Time Management", "Adaptability", "Presentation Skills", "Project Management", "Agile", "Scrum", "Technical Writing"]
+        },
+        "tools": {
+            "name": "Developer Tools",
+            "skills": ["Git", "GitHub", "GitLab", "Jira", "Confluence", "Figma", "Postman", "VS Code", "IntelliJ IDEA", "Slack", "Notion", "Linear"]
+        }
+    },
+    "role_skill_profiles": {
+        "software_engineer": {
+            "title": "Software Engineer",
+            "critical_skills": ["Python", "JavaScript", "Git", "REST API", "SQL", "Data Structures", "Algorithms"],
+            "important_skills": ["React", "Node.js", "Docker", "CI/CD", "System Design", "Microservices"],
+            "nice_to_have": ["AWS", "Kubernetes", "TypeScript", "GraphQL", "Redis"]
+        },
+        "data_scientist": {
+            "title": "Data Scientist",
+            "critical_skills": ["Python", "Pandas", "NumPy", "Scikit-learn", "SQL", "Statistical Analysis", "Data Visualization"],
+            "important_skills": ["TensorFlow", "PyTorch", "Feature Engineering", "A/B Testing", "Jupyter Notebook", "Deep Learning"],
+            "nice_to_have": ["Apache Spark", "MLOps", "NLP", "Computer Vision", "Tableau"]
+        },
+        "ml_engineer": {
+            "title": "Machine Learning Engineer",
+            "critical_skills": ["Python", "TensorFlow", "PyTorch", "ML Algorithms", "Data Pipelines", "Model Deployment", "Deep Learning"],
+            "important_skills": ["Docker", "Kubernetes", "MLOps", "Feature Engineering", "Cloud (AWS/GCP)", "REST API"],
+            "nice_to_have": ["LLMs", "Transformers", "Hugging Face", "RAG", "Prompt Engineering", "LangChain"]
+        },
+        "frontend_developer": {
+            "title": "Frontend Developer",
+            "critical_skills": ["HTML", "CSS", "JavaScript", "React", "Git", "Responsive Design"],
+            "important_skills": ["TypeScript", "Next.js", "Redux", "Tailwind CSS", "Testing", "Web Accessibility"],
+            "nice_to_have": ["Vue.js", "GraphQL", "PWA", "Performance Optimization", "Figma"]
+        },
+        "backend_developer": {
+            "title": "Backend Developer",
+            "critical_skills": ["Python", "Node.js", "SQL", "REST API", "Git", "Database Design"],
+            "important_skills": ["Docker", "Microservices", "Redis", "Authentication", "CI/CD", "Cloud"],
+            "nice_to_have": ["Kubernetes", "GraphQL", "Message Queues", "System Design", "Elasticsearch"]
+        },
+        "devops_engineer": {
+            "title": "DevOps Engineer",
+            "critical_skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "Git", "Cloud (AWS/Azure/GCP)", "Terraform"],
+            "important_skills": ["Ansible", "Monitoring", "Prometheus", "Grafana", "Networking", "Scripting"],
+            "nice_to_have": ["Service Mesh", "Security", "Cost Optimization", "GitOps", "Serverless"]
+        },
+        "ai_engineer": {
+            "title": "AI/LLM Engineer",
+            "critical_skills": ["Python", "LLMs", "Prompt Engineering", "LangChain", "RAG", "OpenAI API", "Embeddings"],
+            "important_skills": ["LangGraph", "Vector Databases", "Fine-tuning", "Transformers", "Docker", "REST API"],
+            "nice_to_have": ["MLOps", "Kubernetes", "Multi-agent Systems", "Evaluation Frameworks", "Hugging Face"]
+        },
+        "full_stack_developer": {
+            "title": "Full Stack Developer",
+            "critical_skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "SQL", "Git", "REST API"],
+            "important_skills": ["TypeScript", "MongoDB", "Docker", "Authentication", "CI/CD", "Cloud"],
+            "nice_to_have": ["Next.js", "GraphQL", "Redis", "Kubernetes", "System Design"]
+        }
+    }
+}

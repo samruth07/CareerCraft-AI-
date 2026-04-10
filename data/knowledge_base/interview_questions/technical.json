@@ -1,0 +1,74 @@
+{
+    "python_questions": [
+        {
+            "question": "What are Python decorators and how do they work? Give an example.",
+            "difficulty": "medium",
+            "expected_points": ["Decorators modify function behavior", "They are higher-order functions", "Use @syntax sugar", "Common uses: logging, auth, timing"],
+            "follow_ups": ["What is functools.wraps?", "Can you stack decorators?"]
+        },
+        {
+            "question": "Explain the difference between a list, tuple, and set in Python.",
+            "difficulty": "easy",
+            "expected_points": ["List: mutable, ordered, allows duplicates", "Tuple: immutable, ordered, allows duplicates", "Set: mutable, unordered, no duplicates", "Performance differences for lookups"],
+            "follow_ups": ["When would you use a tuple over a list?", "What is a frozenset?"]
+        },
+        {
+            "question": "What is the GIL in Python? How does it affect multi-threading?",
+            "difficulty": "hard",
+            "expected_points": ["GIL = Global Interpreter Lock", "Only one thread executes Python bytecode at a time", "Limits CPU-bound multi-threading", "Use multiprocessing for CPU-bound tasks"],
+            "follow_ups": ["How does asyncio differ from threading?", "When is threading still useful in Python?"]
+        },
+        {
+            "question": "Explain list comprehensions vs generator expressions.",
+            "difficulty": "medium",
+            "expected_points": ["List comp creates full list in memory", "Generator yields one item at a time (lazy)", "Generator is memory-efficient for large data", "Use () for generator, [] for list comp"],
+            "follow_ups": ["When would you prefer a generator?", "What is the yield keyword?"]
+        }
+    ],
+    "ml_ai_questions": [
+        {
+            "question": "Explain the difference between supervised and unsupervised learning.",
+            "difficulty": "easy",
+            "expected_points": ["Supervised: labeled data, learns input-output mapping", "Unsupervised: unlabeled data, finds patterns", "Examples: classification/regression vs clustering/dimensionality reduction", "Semi-supervised combines both"],
+            "follow_ups": ["Give examples of each", "What about reinforcement learning?"]
+        },
+        {
+            "question": "What is overfitting and how do you prevent it?",
+            "difficulty": "medium",
+            "expected_points": ["Model memorizes training data instead of learning patterns", "High training accuracy, low test accuracy", "Prevention: regularization, dropout, more data, cross-validation", "Early stopping and simpler models"],
+            "follow_ups": ["What is the bias-variance tradeoff?", "How does dropout work?"]
+        },
+        {
+            "question": "Explain RAG (Retrieval Augmented Generation). Why is it important?",
+            "difficulty": "medium",
+            "expected_points": ["Combines retrieval with LLM generation", "Grounds LLM responses in factual data", "Reduces hallucination", "Components: embedding, vector DB, retriever, LLM"],
+            "follow_ups": ["What vector databases have you used?", "How do you evaluate RAG quality?"]
+        },
+        {
+            "question": "What are embeddings? How are they used in NLP?",
+            "difficulty": "medium",
+            "expected_points": ["Dense vector representations of text", "Capture semantic meaning", "Similar texts have similar vectors", "Used for search, clustering, classification"],
+            "follow_ups": ["Name some embedding models", "What is cosine similarity?"]
+        },
+        {
+            "question": "Explain the Transformer architecture at a high level.",
+            "difficulty": "hard",
+            "expected_points": ["Self-attention mechanism", "Encoder-decoder structure", "Parallel processing (vs sequential RNNs)", "Positional encoding for sequence info"],
+            "follow_ups": ["What is multi-head attention?", "How do GPT and BERT differ?"]
+        }
+    ],
+    "system_design_questions": [
+        {
+            "question": "Design a chat application like WhatsApp.",
+            "difficulty": "hard",
+            "expected_points": ["WebSocket for real-time messaging", "Message queue for async delivery", "Database design for conversations", "File storage for media", "Scalability considerations"],
+            "follow_ups": ["How would you handle offline messages?", "How do you ensure message ordering?"]
+        },
+        {
+            "question": "Design an authentication system with OAuth.",
+            "difficulty": "medium",
+            "expected_points": ["OAuth 2.0 flow explanation", "Token types (access, refresh)", "JWT structure and validation", "Security considerations (HTTPS, token expiry)"],
+            "follow_ups": ["What is the difference between OAuth and OpenID Connect?", "How do you handle token refresh?"]
+        }
+    ]
+}
