@@ -155,9 +155,9 @@ A high-level view of the system's modular design:
 ---
 
 ## 📸 Screenshots
-*   **Landing Page**: ![Dashboard](dashboard.png)
-*   **Agent Pipeline in Action**: ![Agents at Work](agents.png)
-*   **Intelligence Dashboard**: ![Resukt](DashboardResult.png)
+*   **Landing Page**: ![Dashboard](images/dashboard.png)
+*   **Agent Pipeline in Action**: ![Agents at Work](images/agents.png)
+*   **Intelligence Dashboard**: ![Result](images/DashboardResult.png)
 
 ---
 
