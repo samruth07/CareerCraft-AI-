@@ -76,7 +76,7 @@ graph TD
 ## 🏛️ Architecture Diagram
 A high-level view of the system's modular design:
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/architecture.png)
 
 ---
 
