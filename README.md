@@ -76,7 +76,7 @@ graph TD
 ## 🏛️ Architecture Diagram
 A high-level view of the system's modular design:
 
-![Architecture Diagram](architecture_final.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
@@ -155,9 +155,9 @@ A high-level view of the system's modular design:
 ---
 
 ## 📸 Screenshots
-*   **Landing Page**: `[Add screenshot here]`
-*   **Agent Pipeline in Action**: `[Add screenshot here]`
-*   **Intelligence Dashboard**: `[Add screenshot here]`
+*   **Landing Page**: ![Dashboard](dashboard.png)
+*   **Agent Pipeline in Action**: ![Agents at Work](agents.png)
+*   **Intelligence Dashboard**: ![Resukt](DashboardResult.png)
 
 ---
 
